@@ -11,6 +11,12 @@ First, install the necessary Python packages, primarily Selenium.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Real Estate Market Graphs:
 Updated: July 2024
+![graph 1](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/71273ebc-6098-4046-9df0-87d6a867dbdc)
+![graph2](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/31182e86-64fc-49a9-95ca-658474c3be1c)
+![graph 3](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/c8818443-707e-4f5f-8253-0c1bd3b4cf8f)
+![graph 4](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/9e889f55-9474-4dd3-82d2-fb174f7822db)
+
+
 
 Feb 2024
 ![image](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/02b54440-37d4-42d5-8976-e81e72e4680a)
