@@ -24,15 +24,11 @@ First, install the necessary Python packages, primarily Selenium.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Coding Preview: 
-sh
-Copy code
+# Coding Preview: 
 !pip install selenium
 Open Realtor.ca Through Webdriver
 To interact with Realtor.ca, we'll use Selenium WebDriver.
 
-python
-Copy code
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -46,8 +42,6 @@ driver.get("https://www.realtor.ca")
 Scraping Data Using Beautiful Soup/Selenium
 Use Selenium to navigate and Beautiful Soup to parse the HTML content.
 
-python
-Copy code
 from bs4 import BeautifulSoup
 
 # Finding search bar on Realtor.ca
@@ -62,8 +56,7 @@ soup = BeautifulSoup(page_source, 'html.parser')
 Clean/Manipulate Data Using Pandas
 Extract and clean the data using Pandas.
 
-python
-Copy code
+
 import pandas as pd
 
 price = []
@@ -116,8 +109,7 @@ houses.to_csv('houses.csv', index=False)
 Data Visualizations Using Matplotlib/Seaborn/Plotly
 Visualize the cleaned data.
 
-python
-Copy code
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
