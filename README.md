@@ -1,13 +1,12 @@
 # Contents
-## This project involves web scraping real estate data from Realtor.ca using Python. The main steps include:
+## This project involves web scraping real estate data from Realtor.ca using Pandas and Selenium WebDriver
 
+### The main steps include:
 Setting up the environment and installing necessary packages.
 Using Selenium WebDriver to navigate and search Realtor.ca.
 Scraping data using Beautiful Soup and Selenium.
 Cleaning and manipulating the data using Pandas.
 Visualizing the data using Matplotlib, Seaborn, and Plotly.
-Getting Started: Installation
-First, install the necessary Python packages, primarily Selenium.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Real Estate Market Graphs:
 ## Section 1: Updated: July 2024
@@ -25,10 +24,11 @@ First, install the necessary Python packages, primarily Selenium.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Coding Preview: 
-!pip install selenium
-Open Realtor.ca Through Webdriver
-To interact with Realtor.ca, we'll use Selenium WebDriver.
+Getting Started: Installation
+First, install the necessary Python packages, primarily Selenium.
 
+# Python Libraries
+!pip install selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
