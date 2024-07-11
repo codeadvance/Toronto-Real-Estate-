@@ -9,7 +9,10 @@ Visualizing the data using Matplotlib, Seaborn, and Plotly.
 Getting Started: Installation
 First, install the necessary Python packages, primarily Selenium.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Graphs:
+Real Estate Market Graphs:
+Updated: July 2024
+
+Feb 2024
 ![image](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/02b54440-37d4-42d5-8976-e81e72e4680a)
 ![image](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/e687a0c9-a88a-4be4-b5e4-2e6297986300)
 ![image](https://github.com/codeadvance/Toronto-Real-Estate-/assets/132302205/e4c8a11e-764d-4d93-a0c1-8f39c664821b)
