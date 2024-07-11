@@ -1,5 +1,5 @@
-Contents
-This project involves web scraping real estate data from Realtor.ca using Python. The main steps include:
+# Contents
+## This project involves web scraping real estate data from Realtor.ca using Python. The main steps include:
 
 Setting up the environment and installing necessary packages.
 Using Selenium WebDriver to navigate and search Realtor.ca.
